@@ -1,0 +1,42 @@
+C:\Users\Unknown\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe.config
+C:\Users\Unknown\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe
+C:\Users\Unknown\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.pdb
+C:\Users\Unknown\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\bin\Debug\newGame.dll
+C:\Users\Unknown\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO Development Server.exe
+C:\Users\Unknown\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\Unknown\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\bin\Debug\newGame.pdb
+C:\Users\Unknown\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Unknown\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\obj\Debug\Player.IO Test Server.VS2010.csprojResolveAssemblyReference.cache
+C:\Users\Unknown\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+C:\Users\Unknown\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
+C:\Users\Home\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe.config
+C:\Users\Home\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+C:\Users\Home\Desktop\The Dicer\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
+C:\Documents and Settings\collection\Desktop\TheLovets\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe.config
+C:\Documents and Settings\collection\Desktop\TheLovets\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+C:\Documents and Settings\collection\Desktop\TheLovets\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
+C:\Documents and Settings\collection\Desktop\TheLovets\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe
+C:\Documents and Settings\collection\Desktop\TheLovets\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.pdb
+C:\Documents and Settings\collection\Desktop\TheLovets\Serverside Code\Player.IO Test Server Project\bin\Debug\newGame.dll
+C:\Documents and Settings\collection\Desktop\TheLovets\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO Development Server.exe
+C:\Documents and Settings\collection\Desktop\TheLovets\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.dll
+C:\Documents and Settings\collection\Desktop\TheLovets\Serverside Code\Player.IO Test Server Project\bin\Debug\newGame.pdb
+C:\Documents and Settings\collection\Desktop\TheLovets\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.xml
+C:\Documents and Settings\collection\Desktop\TheLovets\Serverside Code\Player.IO Test Server Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Home\Desktop\StickRun\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe.config
+C:\Users\Home\Desktop\StickRun\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+C:\Users\Home\Desktop\StickRun\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
+C:\Users\Home\Desktop\StickRun3\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe.config
+C:\Users\Home\Desktop\StickRun3\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+C:\Users\Home\Desktop\StickRun3\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
+C:\Users\Home\Desktop\StickRun4\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe.config
+C:\Users\Home\Desktop\StickRun4\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.exe
+C:\Users\Home\Desktop\StickRun4\Serverside Code\Player.IO Test Server Project\obj\Debug\Test Server.pdb
+C:\Users\Home\Desktop\StickRun4\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.exe
+C:\Users\Home\Desktop\StickRun4\Serverside Code\Player.IO Test Server Project\bin\Debug\Test Server.pdb
+C:\Users\Home\Desktop\StickRun4\Serverside Code\Player.IO Test Server Project\bin\Debug\newGame.dll
+C:\Users\Home\Desktop\StickRun4\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO Development Server.exe
+C:\Users\Home\Desktop\StickRun4\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\Home\Desktop\StickRun4\Serverside Code\Player.IO Test Server Project\bin\Debug\newGame.pdb
+C:\Users\Home\Desktop\StickRun4\Serverside Code\Player.IO Test Server Project\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Home\Desktop\StickRun4\Serverside Code\Player.IO Test Server Project\obj\Debug\ResolveAssemblyReference.cache
